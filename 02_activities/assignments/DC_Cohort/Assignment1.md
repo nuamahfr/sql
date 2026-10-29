@@ -209,5 +209,9 @@ Consider, for example, concepts of fariness, inequality, social structures, marg
 
 
 ```
-Your thoughts...
+
+The story of Pakistan's NABR is an interesting one and got me thinking about what happens to someone born of one foreign national and one Pakistani registered parent? It is striking how databases can go a mile to control social and even biological aspect of life. Thinking about this more, I realized we might not be dealing with just Pakistan. Current Job selection databases including both government and private, also have social values embedded in them. Categories like race weather minority or majority status, and region of origin are tied directly to how fairness in recruitment processes are judged.  I can think of a situation where a mixed-race applicant/individual will be forced to select an option which is not truly representing. I could think of this of this as a fixed and non flexible option just like gender field and as this automated screening continuous to grow,  I am worried about if miscategorisation affects who gets invited for job interviews. I am assume these fields became necessary in the push for diversity and inclusion but I think the solution created yet another problem of the same kind. But in a growing world where identities are increasingly mixed, very fluid and contested, what happens to people who do not fit into any of the boxes. Another social value that is embedded in databases is marriage and the use in many decision and discounts allocations. Tax credits goes up for couples and single people can’t claim as much. It’s like a whole new world of rights and privileges opens up one the databases records you as a couple. I know that cause I am married :). 
+
+
+
 ```
